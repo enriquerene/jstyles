@@ -2,6 +2,7 @@
   "name": "jstyles",
   "version": "1.0.0",
   "description": "CSS properties as JS objects",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -19,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/enriquerene/jstyles/issues"
   },
-  "homepage": "https://github.com/enriquerene/jstyles#readme"
+  "homepage": "https://github.com/enriquerene/jstyles#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.0",
+    "babel-jest": "^26.5.2",
+    "jest": "^26.5.3"
+  }
 }
