@@ -1,0 +1,23 @@
+{
+  "name": "jstyles",
+  "version": "1.0.0",
+  "description": "CSS properties as JS objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enriquerene/jstyles.git"
+  },
+  "keywords": [
+    "css-props",
+    "js-style"
+  ],
+  "author": "Enrique René Beauxis Reyes",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/enriquerene/jstyles/issues"
+  },
+  "homepage": "https://github.com/enriquerene/jstyles#readme"
+}
