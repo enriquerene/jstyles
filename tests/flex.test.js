@@ -1,4 +1,4 @@
-import flex from "./flex";
+import flex from "../src/flex";
 
 test(
 	"flex utilities with default values (from w3c)",

@@ -1,4 +1,4 @@
-import borders from "./borders";
+import borders from "../src/borders";
 
 test(
 	"borders utilities with default values (from w3c)",

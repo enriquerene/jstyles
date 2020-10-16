@@ -1,4 +1,4 @@
-import bg from "./background";
+import bg from "../src/background";
 
 test(
 	"background utilities with default values (from w3c)",
