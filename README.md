@@ -1,4 +1,4 @@
-![jstyles](./jstyles.logo.png = 1080x)
+<img src="jstyles.logo.png" alt="JStyles" width="1080">
 CSS properties as JS objects. Jstyes makes easier style your view as javascript objects instead plain css. Made up thinking in React Native / React JS projects, but can be used in other contexts.
 
 ## Table of Contents
