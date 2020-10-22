@@ -1,6 +1,6 @@
 {
   "name": "style-objects",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CSS properties as JS objects",
   "type": "module",
   "main": "index.js",
@@ -12,9 +12,10 @@
     "url": "git+https://github.com/enriquerene/style-objects.git"
   },
   "keywords": [
-    "css-props",
-    "js-style",
-	"react-native-styles"
+    "css props",
+    "js style",
+	"react native",
+	"react"
   ],
   "author": "Enrique René Beauxis Reyes",
   "license": "GPL-3.0-or-later",
