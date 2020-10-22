@@ -1,6 +1,6 @@
 {
-  "name": "jstyles",
-  "version": "1.0.0",
+  "name": "style-objects",
+  "version": "0.0.1",
   "description": "CSS properties as JS objects",
   "type": "module",
   "main": "index.js",
@@ -9,18 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enriquerene/jstyles.git"
+    "url": "git+https://github.com/enriquerene/style-objects.git"
   },
   "keywords": [
     "css-props",
-    "js-style"
+    "js-style",
+	"react-native-styles"
   ],
   "author": "Enrique René Beauxis Reyes",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/enriquerene/jstyles/issues"
+    "url": "https://github.com/enriquerene/style-objects/issues"
   },
-  "homepage": "https://github.com/enriquerene/jstyles#readme",
+  "homepage": "https://github.com/enriquerene/style-objects#readme",
   "dependencies": {},
   "devDependencies": {
     "@babel/preset-env": "^7.12.0",
