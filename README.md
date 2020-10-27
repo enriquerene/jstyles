@@ -15,8 +15,38 @@ If you need some help you can open an issue or get in touch by email ([contato@e
 There are some installation ways. You can choose the best way for you.
 
 ### NPM
+This way requires [NodeJS](https://nodejs.org). With NodeJS installad use `yarn` or `npm`:
+```bash
+$ yarn add style-objects
+```
+or
+```bash
+$ npm install style-objects
+```
+
 ### Git
+Clone the repo into your project:
+```bash
+$ git clone https://github.com/enriquerene/style-objects.git
+```
+
+### Zip
+Dowload the package and uncpack it into your project:
+(Dowload ZIP)[https://github.com/enriquerene/style-objects/archive/main.zip]
 
 ## <a name="usage"></a> Usage
+You can import all style objects from package:
+```javascript
+import React from "react";
+import styleObjects from "style-package";
+const borderStyle = styleObjects.border.border // change this
+const styledElement = 
+<div style={}></div>
+```
+or
+```bash
+$ npm install style-objects
+```
+
 
 ## <a name="contribute"></a> Contribute
