@@ -32,7 +32,7 @@ $ git clone https://github.com/enriquerene/style-objects.git
 
 ### Zip
 Dowload the package and uncpack it into your project:
-(Dowload ZIP)[https://github.com/enriquerene/style-objects/archive/main.zip]
+[Dowload ZIP](https://github.com/enriquerene/style-objects/archive/main.zip)
 
 ## <a name="usage"></a> Usage
 You can import all style objects from package:
